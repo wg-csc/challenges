@@ -1,1 +1,1 @@
-For a given radius `r`, draw an ascii art circle
+For a given radius `r`, draw an ascii art circle.
